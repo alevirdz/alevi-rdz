@@ -36,10 +36,10 @@
  [![Instagram](https://img.shields.io/badge/Instagram-FF1B94?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aleviwebcoder/)
 <!--[![DEV.to](https://img.shields.io/badge/profile-Alevi-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://crecimientoweb.com)-->
 
- ### 💭 Thinking
+ ### 💭 Thinking:
   
   
-  ```
+  ```js
 const phraseDay = {
     Autor: 'Omar Bradley'
 };
