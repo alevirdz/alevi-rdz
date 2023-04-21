@@ -19,6 +19,7 @@
   [![JAVASCRIPT](https://img.shields.io/badge/Javascript-000000?style=for-the-badge&logo=javascript&logoColor=F8D710)]()
   [![LARAVEL](https://img.shields.io/badge/laravel-000000?style=for-the-badge&logo=laravel&logoColor=FB2E3E)]()
   [![VUE](https://img.shields.io/badge/VUE.JS-000000?style=for-the-badge&logo=vuedotjs&logoColor=44E192)]()
+  [![VUETIFY](https://img.shields.io/badge/VUETIFY-000000?style=for-the-badge&logo=vuetify&logoColor=008DE3)]()
   [![CSHARP](https://img.shields.io/badge/CSHARP-000000?style=for-the-badge&logo=csharp&logoColor=2E6FFB)]()
   [![MYSQL](https://img.shields.io/badge/MYSQL-000000?style=for-the-badge&logo=mysql&logoColor=2EA1FB)]()
 
