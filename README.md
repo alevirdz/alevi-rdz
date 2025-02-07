@@ -1,4 +1,4 @@
- ### 🪐 About Me:
+ ### 🪐 About Me: 
  # Hi, I'm [Alevi Rodriguez] 👋
 - 👀 I'm currently learning more technologies.
 - 🌱 I'm currently improve my skills.
